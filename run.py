@@ -1,20 +1,4 @@
 '''
-实验环境说明：
-- 操作系统：Ubuntu 20.04.6 LTS
-- 硬件配置：
-  - CPU：Intel Xeon Gold 6248R
-  - GPU：2 × NVIDIA GeForce RTX 3090（24GB/张）
-  - 内存：256GB
-- 软件版本：
-  - Python 3.8
-  - PyTorch + CUDA
-
-注意：
-1. 在不同软硬件环境下运行，实验结果可能存在差异。
-2. 文件PC2AF.py已加密为PC2AF.so，当前代码可直接运行（支持使用其他数据集），完整代码将在论文录用后公开。
-3. 如有任何问题，请联系：guowei123@email.swu.edu.cn
-'''
-'''
 
 Experimental Setup:
 - OS: Ubuntu 20.04.6 LTS
